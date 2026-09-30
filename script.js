@@ -44,13 +44,8 @@ const music = {
             title: "Calm Song 1",
             artist: "Your Artist",
             file: "Iktara Wake Up Sid 128 Kbps.mp3"
-        },
-        {
-            title: "Calm Song 2",
-            artist: "Your Artist",
-            file: "music/calm/song2.mp3"
-        }
-    ],
+        }],
+  
 
     energetic: [
         {
