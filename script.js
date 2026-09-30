@@ -43,7 +43,7 @@ const music = {
         {
             title: "Calm Song 1",
             artist: "Your Artist",
-            file: "music/calm/song1.mp3"
+            file: "Iktara Wake Up Sid 128 Kbps.mp3"
         },
         {
             title: "Calm Song 2",
